@@ -1,0 +1,3 @@
+/// Reset
+
+game_restart();
