@@ -17,5 +17,6 @@ LMB - Accelerate in direction
 Space - Dash  
 1, 2, 3 - Use weapons  
 R - Reset game  
+C - Toggle AI detection cones  
 
 - The Missiles (third weapon) deal increased damage to Shields, but you have a limited supply.
